@@ -1,8 +1,5 @@
 <?php
 
-namespace redsevensquared\themes;
-
-require_once 'vendor/autoload.php';
 use PHPUnit\Framework\TestCase as TestCase;
 
 class ExampleTest extends TestCase
