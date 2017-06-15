@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1497559490">
-  <project timestamp="1497559490">
+<coverage generated="1497559957">
+  <project timestamp="1497559957">
     <package name="redsevensquared\themes">
       <file name="/Users/jeremyvaught/Sites/packages/redsevensquared/themes/src/ThemesClass.php">
         <class name="ThemesClass" namespace="redsevensquared\themes">
