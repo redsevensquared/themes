@@ -22,4 +22,5 @@ class ThemesClass
     {
         return $phrase;
     }
+    
 }
