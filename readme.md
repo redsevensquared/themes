@@ -52,8 +52,9 @@ If you discover any security related issues, please email jeremy@jeremyvaught.co
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
+[ico-version]: https://img.shields.io/packagist/v/redsevensquared/themes.svg
 [ico-version]: https://img.shields.io/packagist/v/redsevensquared/themes.svg?style=flat-square
-[ico-version2]: https://poser.pugx.org/redsevensquared/themes/v/stable
+[ico-version2]: https://poser.pugx.org/redsevensquared/themes/v/stable?format=flat-square
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/redsevensquared/themes/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/redsevensquared/themes.svg?style=flat-square
