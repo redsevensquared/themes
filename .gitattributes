@@ -10,9 +10,10 @@
 /tests              export-ignore
 /docs               export-ignore
 
-/.editorconfig
-/CHANGELOG.md
-/CONDUCT.md
-/CONTRIBUTING.md
-/LICENSE.md
-/coverage.clover
+/.editorconfig      export-ignore
+/CHANGELOG.md       export-ignore
+/CONDUCT.md         export-ignore
+/CONTRIBUTING.md    export-ignore
+/LICENSE.md         export-ignore
+/coverage.clover    export-ignore
+/PULL_REQUEST_TEMPLATE.md   export-ignore
