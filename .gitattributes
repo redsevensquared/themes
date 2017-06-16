@@ -9,3 +9,10 @@
 /.scrutinizer.yml   export-ignore
 /tests              export-ignore
 /docs               export-ignore
+
+/.editorconfig
+/CHANGELOG.md
+/CONDUCT.md
+/CONTRIBUTING.md
+/LICENSE.md
+/coverage.clover
