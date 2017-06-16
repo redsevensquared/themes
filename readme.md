@@ -1,6 +1,7 @@
 # themes
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
+[![Latest Stable Version][ico-version2]][link-packagist]
 [![Software License][ico-license]](LICENSE.md)
 [![Build Status][ico-travis]][link-travis]
 [![Coverage Status][ico-scrutinizer]][link-scrutinizer]
@@ -52,6 +53,7 @@ If you discover any security related issues, please email jeremy@jeremyvaught.co
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/redsevensquared/themes.svg?style=flat-square
+[ico-version2]: https://poser.pugx.org/redsevensquared/themes/v/stable
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square
 [ico-travis]: https://img.shields.io/travis/redsevensquared/themes/master.svg?style=flat-square
 [ico-scrutinizer]: https://img.shields.io/scrutinizer/coverage/g/redsevensquared/themes.svg?style=flat-square
