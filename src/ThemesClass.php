@@ -20,6 +20,7 @@ class ThemesClass
      */
     public function echoPhrase($phrase)
     {
+        // return of $phrase, not a turn of phrase
         return $phrase;
     }
 }
