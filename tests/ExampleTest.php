@@ -1,6 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase as TestCase;
+use redsevensquared\themes;
 
 class ExampleTest extends TestCase
 {
@@ -10,5 +11,15 @@ class ExampleTest extends TestCase
     public function testTrueIsTrue()
     {
         $this->assertTrue(true);
+    }
+
+    /**
+     * test
+     */
+    public function testDoesEchoPhraseEcho()
+    {
+    	$string = 'is this equal?';
+    	
+    	$this->assertEquals($string, 'is this equal?');
     }
 }
